@@ -25,7 +25,7 @@ This repository contains:
 - Create a console project
 - Add a existing project ( "File" / "Add" /  "Existing Project" /  chosse "SANDBOX_DYNAMIC_MODELS.csproj" 
 - In class "Program.cs" of your console projet :
-   MD_DEMO.Run(); // Simple demo orchestration
+   MD_DEMO.Run(); 
    System.Console.WriteLine("\nPress any key to close...");
    System.Console.ReadKey();
            
